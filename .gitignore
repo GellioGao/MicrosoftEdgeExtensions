@@ -1,0 +1,13 @@
+# ignore files
+*.log
+
+# ignore microsoft edge extension files
+*.appx
+*.cer
+*.pvk
+
+# ignore git file
+
+# ignore all directories 
+
+# but track these
