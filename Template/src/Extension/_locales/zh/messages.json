@@ -1,0 +1,16 @@
+{
+  "extensionDescription": {
+    "message": "",
+    "description": "Description of the extension."
+  },
+
+  "browserActionTitle": {
+      "message": "",
+      "description": "Title of the browser action."
+  },
+
+  "pageActionTitle": {
+      "message": "",
+      "description": "Title of the page action."
+  }
+}

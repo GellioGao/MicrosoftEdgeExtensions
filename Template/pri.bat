@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\Windows Kits\10\bin\x64\makepri.exe" new /pr .\src /cf .\src\priconfig.xml /mn .\src\AppxManifest.xml /of .\src\resources.pri /o
