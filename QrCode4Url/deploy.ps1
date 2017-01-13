@@ -1,0 +1,1 @@
+Add-AppxPackage .\QrCode4Url.appx

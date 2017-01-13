@@ -1,0 +1,2 @@
+"c:\Program Files (x86)\Windows Kits\10\bin\x64\makeappx.exe" pack /h SHA256 /d .\src /p .\QrCode4Url.appx
+"c:\Program Files (x86)\Windows Kits\10\bin\x64\SignTool.exe" sign /fd SHA256 /a /f QrCode4Url.pfx /p 1qaz2wsx QrCode4Url.appx

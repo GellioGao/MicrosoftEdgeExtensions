@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "跟据网址生成二维码.",
+    "description": "Description of the extension."
+  },
+
+  "pageActionTitle": {
+      "message": "获取二维码",
+      "description": "Title of the page action."
+  }
+}

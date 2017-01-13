@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "Get QrCode from url.",
+    "description": "Description of the extension."
+  },
+
+  "pageActionTitle": {
+      "message": "Get QrCode",
+      "description": "Title of the page action."
+  }
+}
