@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "Get text from QrCode.",
+    "description": "Description of the extension."
+  },
+
+  "ContextMenuTitle": {
+    "message": "Read this QrCode",
+    "description": "Title of the context menu."
+  }
+}

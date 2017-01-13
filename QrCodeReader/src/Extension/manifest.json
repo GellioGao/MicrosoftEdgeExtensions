@@ -1,0 +1,28 @@
+{
+    "name": "QrCodeReader",
+    "version": "1.0.0.0",
+    "author": "Gellio Gao",
+
+    "default_locale": "en",
+    "description": "__MSG_extensionDescription__",
+
+    "permissions": [
+        "*://*/*", "tabs", "background", "contextMenus"
+    ],
+    "background": {
+        "scripts": ["qrcode/grid.js", "qrcode/version.js", "qrcode/detector.js", "qrcode/formatinf.js", "qrcode/errorlevel.js", "qrcode/bitmat.js", "qrcode/datablock.js", "qrcode/bmparser.js", "qrcode/datamask.js", "qrcode/rsdecoder.js", "qrcode/gf256poly.js", "qrcode/gf256.js", "qrcode/decoder.js", "qrcode/qrcode.js", "qrcode/findpat.js", "qrcode/alignpat.js", "qrcode/databr.js", "background.js"],
+        "persistent": false
+    },
+
+    "content_scripts": [{
+        "matches": ["*://*/*"],
+        "js": ["react/react.js","react/react-dom.js","react/react-lightbox.js","content.js"]
+    }],
+    "icons": {
+        "150": "../Assets/icon_150.png",
+        "16": "../Assets/icon_16.png",
+        "20": "../Assets/icon_20.png",
+        "40": "../Assets/icon_40.png"
+    },
+    "minimum_edge_version": "33.14281.1000.0"
+}

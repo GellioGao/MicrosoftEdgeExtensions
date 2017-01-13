@@ -1,0 +1,2 @@
+"c:\Program Files (x86)\Windows Kits\10\bin\x64\makeappx.exe" pack /h SHA256 /d .\src /p .\QrCodeReader.appx
+"c:\Program Files (x86)\Windows Kits\10\bin\x64\SignTool.exe" sign /fd SHA256 /a /f QrCodeReader.pfx /p 1qaz2wsx QrCodeReader.appx

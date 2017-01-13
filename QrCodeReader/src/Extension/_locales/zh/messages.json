@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "把二维码转换为文本.",
+    "description": "Description of the extension."
+  },
+
+  "ContextMenuTitle": {
+    "message": "读取二维码",
+    "description": "Title of the context menu."
+  }
+}
