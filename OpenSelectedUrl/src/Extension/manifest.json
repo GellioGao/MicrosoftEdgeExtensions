@@ -1,0 +1,24 @@
+{
+    "name": "OpenSelectedUrl",
+    "version": "1.0.0.0",
+    "author": "Gellio Gao",
+
+    "default_locale": "en",
+    "description": "__MSG_extensionDescription__",
+
+    "permissions": [
+        "*://*/*", "tabs", "background", "contextMenus"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+
+    "icons": {
+        "150": "../Assets/icon_150.png",
+        "16": "../Assets/icon_16.png",
+        "20": "../Assets/icon_20.png",
+        "40": "../Assets/icon_40.png"
+    },
+    "minimum_edge_version": "33.14281.1000.0"
+}

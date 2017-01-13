@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "Open selected url in new window.",
+    "description": "Description of the extension."
+  },
+
+  "ContextMenuTitle": {
+    "message": "Open this url",
+    "description": "Title of the context menu."
+  }
+}

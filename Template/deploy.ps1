@@ -1,1 +1,0 @@
-Add-AppxPackage .\{ExtensionName}.appx

@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "在新窗口打开选择的链接.",
+    "description": "Description of the extension."
+  },
+
+  "ContextMenuTitle": {
+    "message": "打开链接",
+    "description": "Title of the context menu."
+  }
+}
